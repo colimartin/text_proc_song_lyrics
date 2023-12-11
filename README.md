@@ -2,9 +2,9 @@
 
 ## Disclaimer:
 During the development of our project we did not use github for making updates so the
-gitlog is not accurate. I, Aidan, did roughly a little more than the first half of the code.
-Then emailed it to Colin, who wrote the second half and set up the github. We also collaborated 
-on numerous occasions in-person to collaborate.
+gitlog is not accurate. 
+Aidan did roughly a little more than the first half of the code.
+Colin wrote the second half and set up the github. We also met up in-person numerous times to collaborate.
 
 ## Contents:
 The repository contains the file "script.ipynb" which runs our code for the project.
