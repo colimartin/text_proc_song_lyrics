@@ -24,7 +24,5 @@ Run the entire notebook to generate all bar graphs and wordclouds.
 
 ### Customization:
 **Add stop words:** Many stop words have been included but more can be added, or some can be removed by editing the stopwords.extend(...) cell  
-
 **Edit time steps:** The year_step integer variable determines the size of the time periods that are compared. It is 20 by default, meaning a new category is created every 20 years from 1950 to present.  
-
 **Choose genres to compare:** The "used_genres" list variable determines which genres are compared. Of the 7 available genres, "pop", "rock", "country" and "hip hop" are compared by default. Other options are "raggae", "jazz" and "blues".
