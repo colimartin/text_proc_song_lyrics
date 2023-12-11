@@ -9,10 +9,10 @@ It gets its data from the file "tcc_ceds_music.csv", which is also in the reposi
 The files containing the ".png" extension are the tf-idf outputs for the different time 
 periods.
 
-50viz.png -> 1950's and 1960's
-70viz.png -> 1970's and 1980's
-90viz.png -> 1990's and 2000's
-10viz.png -> 2010's and 2020's
+50viz.png -> 1950's and 1960's;
+70viz.png -> 1970's and 1980's;
+90viz.png -> 1990's and 2000's;
+10viz.png -> 2010's and 2020's;
 
 How to run the code:
 To run the python notebook file, one must first make sure they have all the libraries that
