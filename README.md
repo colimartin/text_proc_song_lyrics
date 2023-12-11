@@ -8,14 +8,14 @@ Colin wrote the second half and set up the github.
 We also met up in-person numerous times to collaborate.
 
 ## Contents:
-The repository contains the file *"script.ipynb"* which contains the source code.
-Data comes from *"tcc_ceds_music.csv"*, which is found in src alongside the notebook file. 
-The files containing the ".png" extension are the tf-idf outputs for each time period we analyzed.
+The repository contains the file *"script.ipynb"* which contains the source code.  
+Data comes from *"tcc_ceds_music.csv"*, which is found in src alongside the notebook file.  
+The files containing the ".png" extension are the tf-idf outputs for each time period we analyzed.  
 
-50viz.png -> 1950's and 1960's;
-70viz.png -> 1970's and 1980's;
-90viz.png -> 1990's and 2000's;
-10viz.png -> 2010's and 2020's;
+50viz.png -> 1950's and 1960's;  
+70viz.png -> 1970's and 1980's;  
+90viz.png -> 1990's and 2000's;  
+10viz.png -> 2010's and 2020's;  
 
 ## How to run the code:
 To run the source code open *"script.ipynb"* in VSCode, Jupyter Labs, or your favorite IDE that supports Jupyter Notebooks.  
